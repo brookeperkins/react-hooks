@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApodItem component renders ApodItem component 1`] = `
+<DocumentFragment>
+  <figure>
+    <h1>
+      NGC 6369: The Little Ghost Nebula
+    </h1>
+    <img
+      alt="NGC 6369: The Little Ghost Nebula"
+      src="https://apod.nasa.gov/apod/image/1710/NGC6369LittleGhostHST1024c.jpg"
+    />
+  </figure>
+</DocumentFragment>
+`;

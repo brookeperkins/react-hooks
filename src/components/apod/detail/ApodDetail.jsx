@@ -1,10 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+/* eslint-disable max-len */
 
 const ApodDetail = ({ title, url, explanation }) => (
   <figure>
     <h1>{title}</h1>
-    <h3>{url}</h3>
+    <img src={url} alt={title} width="400" />
     <h3>About: {explanation}</h3>
   </figure>
 );
