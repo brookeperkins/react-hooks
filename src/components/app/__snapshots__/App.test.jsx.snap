@@ -2,8 +2,14 @@
 
 exports[`App component renders App 1`] = `
 <DocumentFragment>
-  <h1>
-    Hello Squirrel
-  </h1>
+  <div>
+    <p>
+      Loading
+    </p>
+    <img
+      data-testid="loading"
+      src="https://i.imgur.com/oRnhau2.gif"
+    />
+  </div>
 </DocumentFragment>
 `;

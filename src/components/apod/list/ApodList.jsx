@@ -22,7 +22,6 @@ ApodList.propTypes = {
   entries: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string.isRequired,
     url: PropTypes.string.isRequired,
-    date: PropTypes.string.isRequired
   })).isRequired
 };
 

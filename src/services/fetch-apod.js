@@ -1,3 +1,4 @@
+import fetch from 'node-fetch';
 const APOD_API_KEY = process.env.REACT_APP_APOD_API_KEY;
 /* eslint-disable max-len */
 
