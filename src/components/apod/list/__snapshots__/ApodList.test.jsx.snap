@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApodList component renders the ApodList component 1`] = `
+<DocumentFragment>
+  <ul
+    data-testid="apod-items"
+  >
+    <li>
+      <a
+        href="/undefined"
+      >
+        <figure>
+          <h1>
+            The Cygnus Loop
+          </h1>
+          <img
+            alt="The Cygnus Loop"
+            src="https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif"
+          />
+        </figure>
+      </a>
+    </li>
+    <li>
+      <a
+        href="/undefined"
+      >
+        <figure>
+          <h1>
+            The Crown of the Sun"
+          </h1>
+          <img
+            alt="The Crown of the Sun\\""
+            src="https://apod.nasa.gov/apod/image/0808/TSE2008_luethen800.jpg"
+          />
+        </figure>
+      </a>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

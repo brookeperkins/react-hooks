@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ApodDetail component renders the ApodDetail component 1`] = `
+<DocumentFragment>
+  <section
+    data-testid="apod-detail"
+  >
+    <h1>
+      Messier 76
+    </h1>
+    <h2>
+      1990-01-01
+    </h2>
+    <img
+      alt="Messier 76"
+      src="https://apod.nasa.gov/apod/image/0611/Messier76_seip_smallcc.jpg"
+      width="400"
+    />
+    <h3>
+      About: Nebula at the right foot of Andromeda...
+    </h3>
+  </section>
+</DocumentFragment>
+`;
